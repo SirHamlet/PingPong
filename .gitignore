@@ -1,0 +1,28 @@
+# eclipse
+.classpath
+.project
+.springBeans
+.settings/
+
+# maven
+target/
+
+# gradle
+**/build/
+**/.gradle/
+
+# idea
+.idea/
+*.iml
+*.iws
+
+# other
+log/
+logs/
+*.class
+*.swp
+
+# Package Files 
+*.jar
+*.war
+*.ear
