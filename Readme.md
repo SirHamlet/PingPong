@@ -16,9 +16,9 @@ JDK 8, MongoDB (желательно, 3.0)
 
 
 ### Использованные библиотеки и фреймворки
-DI - Spring 4
-DB - MongoDB 3
-Net - Netty 4
+DI - Spring 4,
+DB - MongoDB 3,
+Net - Netty 4,
 Cache - Hazelcast
 
 ### Рекомендации по масштабированию
